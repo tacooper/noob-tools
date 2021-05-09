@@ -1,0 +1,7 @@
+[user]
+    name = Tom Cooper
+    email = tacooper@vt.edu
+[push]
+    default = simple
+[core]
+    editor = vim
